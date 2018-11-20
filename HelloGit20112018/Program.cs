@@ -13,6 +13,7 @@ namespace HelloGit20112018
             Console.WriteLine("Hello Git");
             Console.WriteLine("Dette er en test");
             Console.ReadLine();
+            Console.ReadLine();//Dette er et linie skift
 
         }
     }
