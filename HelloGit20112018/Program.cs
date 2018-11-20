@@ -12,7 +12,7 @@ namespace HelloGit20112018
         {
             //Dette er en test a GIT
             Console.WriteLine("Hello Git");
-            Console.WriteLine("Dette er en test");
+            Console.WriteLine("Dette er en test der er lavet på server");
             Console.ReadLine();
             Console.ReadLine();//Dette er et linie skift
 
