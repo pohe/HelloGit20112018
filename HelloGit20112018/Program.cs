@@ -10,6 +10,8 @@ namespace HelloGit20112018
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Git");
+
         }
     }
 }
